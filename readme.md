@@ -1,4 +1,5 @@
-# Starter C++17 - VS Code
+# Starter C++17
+>for VS Code development
 
 ## Getting started
 
