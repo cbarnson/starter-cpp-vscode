@@ -2,7 +2,7 @@
 
 ## Getting started
 
-Add your `mingw64\bin` to your path.  I use MSYS2's mingw64 tools, so it's `C:\msys64\mingw64\bin`.
+Add your `...\mingw64\bin` to your path.  I use MSYS2's mingw64 tools, so it's `C:\msys64\mingw64\bin`. That's it, use it if you want.  I'm gonna keep this small because I don't like having to re-read the initial setup and configuration notes on VS Code docs every time I need a tiny C++ project with build/debug/syntax stuff ready to go.
 
 ## `.vscode\c_cpp_properties.json`
 
