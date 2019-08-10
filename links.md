@@ -1,0 +1,15 @@
+https://code.visualstudio.com/docs/cpp/colorization-cpp
+https://code.visualstudio.com/docs/cpp/colorization-cpp#_intellisense-tokens-and-scopes
+https://code.visualstudio.com/docs/cpp/config-mingw
+https://code.visualstudio.com/docs/cpp/config-wsl
+https://code.visualstudio.com/docs/cpp/cpp-debug#_known-limitations
+https://code.visualstudio.com/docs/cpp/customize-default-settings-cpp#_updated-ccpppropertiesjson-syntax
+https://code.visualstudio.com/docs/cpp/enable-logging-cpp#_logging-for-visual-c-debugger
+https://code.visualstudio.com/docs/cpp/faq-cpp
+https://code.visualstudio.com/docs/cpp/faq-cpp#_how-do-i-disable-the-intellisense-cache-ipch
+https://code.visualstudio.com/docs/cpp/faq-cpp#_how-do-i-enable-debug-symbols
+https://code.visualstudio.com/docs/cpp/faq-cpp#_how-do-i-get-the-new-intellisense-to-work-with-mingw-on-windows
+https://code.visualstudio.com/docs/cpp/faq-cpp#_why-do-i-see-red-squiggles-under-standard-library-types
+https://github.com/Microsoft/vscode-cpptools/issues
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+https://mingw-w64.org/doku.php/download/mingw-builds
